@@ -4,6 +4,7 @@
 #include <random>
 #include <iostream>
 #include <string>
+#include <time.h>
 
 typedef std::vector<float> tensor1d;
 typedef std::vector<tensor1d> tensor2d;
